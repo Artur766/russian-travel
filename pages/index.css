@@ -10,7 +10,7 @@
 @import url(../blocks//header/__logo/header__logo.css);
 @import url(../blocks/header/__link-container/header__link-container.css);
 @import url(../blocks/header/__lange-link/header__lange-link.css);
-@import url(../blocks/header/__lange-link/_active/header__link_active.css);
+@import url(../blocks/header/__lange-link/_active/header__lange-link_active.css);
 
 /* леад */
 @import url(../blocks/lead/lead.css);
