@@ -1,7 +1,5 @@
 .place__conteiner-paragraph {
-  padding: 0;
   margin: 0;
-  list-style-type: none;
 }
 
 @media screen and (max-width: 570px) {

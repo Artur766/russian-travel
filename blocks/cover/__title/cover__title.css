@@ -8,17 +8,10 @@
   margin-bottom: 32px;
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:528px) {
   .cover__title {
-    font-size: 60px;
-    line-height: 65px;
-  }
-}
-
-@media screen and (max-width:420px) {
-  .cover__title {
-    font-size: 45px;
-    line-height: 49px;
+    font-size: 40px;
+    line-height: 45px;
   }
 }
 
